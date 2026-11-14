@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.pt binary
+*.woff2 binary
+data/raw/*.txt -text

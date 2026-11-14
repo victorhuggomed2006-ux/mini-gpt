@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this model or code, please cite it as below."
+title: "mini-gpt: a small character-level GPT trained from scratch on Machado de Assis"
+type: software
+authors:
+  - family-names: "Medeiros"
+    given-names: "Victor Huggo"
+version: 0.1.0
+date-released: 2026-11-13
+license: AGPL-3.0-or-later
